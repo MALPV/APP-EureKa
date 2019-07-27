@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EurekAPP</string>
+    <string name="title_activity_registro">Inicio de Sesión</string>
+    <string name="title_activity_main">Registro de Usuario</string>
+</resources>

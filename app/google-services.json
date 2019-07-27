@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135103222914",
+    "firebase_url": "https://eurekapp-19.firebaseio.com",
+    "project_id": "eurekapp-19",
+    "storage_bucket": "eurekapp-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135103222914:android:398a4e1d6364ea16",
+        "android_client_info": {
+          "package_name": "com.apps.eureka.eurekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135103222914-jtjbb9jlvbm8je494tuc4n28oart54g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.eureka.eurekapp",
+            "certificate_hash": "0eab8377f29fdd8bb441fa476f925818f7199f5e"
+          }
+        },
+        {
+          "client_id": "135103222914-n2godsrdnh7stcdv5md7b8r82a2aunut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfMg9ePhLiiZOr4PzBWJS8ghWCa2X2sYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135103222914-n2godsrdnh7stcdv5md7b8r82a2aunut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
